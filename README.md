@@ -1,3 +1,5 @@
+# The server is only waiting you.
+
 # Lunartist-challenge.  
 Here you can post Sprite, tile, banner, icon, sound. that it makes me think of the galaxy, moon, werewolf  
   
@@ -11,6 +13,10 @@ We have to imagine a world with an ambience of color 'Purple and Dark', we need 
 [0/1/+] Dungeon ( Only with sprite in this github repository  ) 
 [_/1/_] Background for credit screen (You have to type like this[YourDiscordName/FuturIngameName: the feature your contributed to])
 
-# ------------------- 
-
 To contribute do a push request on the project with a folder : FolderNameIsYourDiscordName/withyourfiles
+
+# Why should i contribute to
+
+We are making our best to give you a nice server also im developper a not spriter, you could do better than i can ^^   
+  
+The persons who contribute to the project should get the Donator Pass.
