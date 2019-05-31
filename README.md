@@ -1,22 +1,22 @@
-# The server is only waiting you.
+# The server needs your help
 
-# Lunartist-challenge.  
-Here you can post Sprite, tile, banner, icon, sound. that it makes me think of the galaxy, moon, werewolf  
+# Lunartist-challenge
+Here you can post Sprite, tile, banner, icon, sound. Aything thats makes you think of "lunar", things like galaxy, moon, planets, eclipe etc. or anything that looks good enought to use in a server, doesnt have to be "lunar" themed. 
   
-# The challenge.  
+# The challenge
 
-We have to imagine a world with an ambience of color 'Purple and Dark', we need : 
+We need : 
 
-[0/1/+] Sound, Music  
-[0/1/+] Sprite typeof(Weapon, ground, world-object)  
-[0/1/+] Monster Sprite [Bonus] Who he is ? Write it desc of your push request
-[0/1/+] Dungeon ( Only with sprite in this github repository  ) 
-[_/1/_] Background for credit screen (You have to type like this[YourDiscordName/FuturIngameName: the feature your contributed to])
+Sound, Music  
+Different kinds of Sprites (equipment, ground, world-object, anything)  
+Monster Sprite [Bonus] Is there any lore to this character? Write it desc of your push request
+Dungeon (If you use custom tiles/walls, send them) 
+Background for title screen
 
-To contribute do a push request on the project with a folder : FolderNameIsYourDiscordName/withyourfiles
+To contribute message @ZeroTwo~chan!#6060 on discord along with your contribution.
 
-# Why should i contribute to
+# Why should i contribute?
 
-We are making our best to give you a nice server also im developper a not spriter, you could do better than i can ^^   
+We are trying our best to give you a nice server and thats why we need all the help we can get. ^^   
   
-The persons who contribute to the project should get the Donator Pass.
+The best contributions will earn a donator rank!
