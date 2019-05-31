@@ -13,7 +13,7 @@ Monster Sprite [Bonus] Is there any lore to this character? Write it desc of you
 Dungeon (If you use custom tiles/walls, send them) 
 Background for title screen
 
-To contribute message @ZeroTwo~chan!#6060 on discord along with your contribution.
+To contribute message @ZeroTwo~chan!#6060 over DMs on discord along with your contribution.
 
 # Why should i contribute?
 
